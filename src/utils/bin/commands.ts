@@ -169,5 +169,7 @@ export const banner = (args?: string[]): string => {
 Type 'sumfetch' to see a short summary, 'resume' or 'linkedin' or 'projects' for more specific information.
 Type 'repo' or click <u><a class="text-light-blue dark:text-dark-blue underline" href="${config.repo}" target="_blank">here</a></u> for the Github repository.
 Type 'help' to see the list of available commands.
+
+Credits go to CVeinnt's <u><a class="text-light-blue dark:text-dark-blue underline" href="${config.credits}" target="_black">LiveTerm</a></u>, which served as the foundation for this personal website.
 `;
 };
